@@ -1,5 +1,10 @@
 Hi! This is simple coin flip app on Apple Watch.
 
+<img width=378 alt = "log" src="https://github.com/Ziemowit02K/CoinFlip/assets/106156554/f2e01d30-ec78-4d80-bc76-faf38e468aa8">
+
+
+
+
 1. How it works:
 
 On the opening screen, all you have to do is press "Flip" button and enjoy the outcome. All you have to do is download it and 
